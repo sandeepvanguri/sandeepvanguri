@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -60,11 +60,30 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode & GitHub Stats:
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/sandeepvangurii?theme=dark&font=Baloo&ext=heatmap" />
-</p>
+
+<table>
+<tr>
+<td>
+
+![](https://leetcard.jacoblin.cool/sandeepvangurii?theme=dark&font=Baloo&ext=heatmap)
+
+</td>
+
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=sandeepvanguri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=sandeepvanguri&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepvanguri&theme=dark&hide_border=false&layout=compact)
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
